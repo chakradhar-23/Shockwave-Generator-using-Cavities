@@ -23,4 +23,5 @@ the inviscid model. The working medium is chosen to be air.
 The boundary conditions for driver section pressure is 500,000
 Pa and driven section pressure is 101,325 Pa.
 
+![Shockwave Generation Semi Circular](shockwave generation semi circular one.png)
 
