@@ -23,5 +23,17 @@ the inviscid model. The working medium is chosen to be air.
 The boundary conditions for driver section pressure is 500,000
 Pa and driven section pressure is 101,325 Pa.
 
-![Shockwave Generation Semi Circular](shockwave generation semi circular one.png)
+## Post-processing:
+We extracted the transient pressure data at 5 different points
+in driven section which are at 300mm, 350mm, 400mm,
+450mm, 499mm from the diaphgram for each cavity model.
+As the test section is at the end of driven section we mainly
+focused at the 499mm. The pressure contour of semi-circular
+cavity shocktube is shown
+
+![Shockwave Generation Semi Circular](https://github.com/chakradhar-23/Shockwave-Generator-using-Cavities/blob/faea02916725784c58cc7977f716e7d25e6970ba/shockwave%20generation%20semi%20circular%20one.png)
+
+
+
+
 
